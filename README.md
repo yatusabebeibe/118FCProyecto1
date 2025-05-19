@@ -11,7 +11,7 @@ sudo docker run -d -p 80:80 --name 118fcproyecto1 118fcproyecto1:1.0
 ```
  
 ## Paso 3. Comprobación: http://localhost 
-![comprobacion en localhost ](comprobacion_localhost.png)
+![comprobacion en localhost](comprobacion_localhost.png)
  
 ## Paso 4. Se pide modificar el fichero index.html desde el contenedor. 
 Se hace haciendo:
